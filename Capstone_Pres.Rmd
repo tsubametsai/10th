@@ -11,8 +11,9 @@ output: html_document
 library('revealjs')
 ```
 
-1. SECTION A
-=====
+SECTION A
+========
+
 1.1 Assignment: Final Project Submission
 -----
 Instructions
